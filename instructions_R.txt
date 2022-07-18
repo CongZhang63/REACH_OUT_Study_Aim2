@@ -1,0 +1,13 @@
+Instructions for running the R scripts
+
+- create a work directory
+Put the 5 scripts there.
+
+- create the subdirectories "tables", "images", "fichiers".
+Place your datafile in "tables".
+"images" and "fichiers" will respectively receive the generated graphics and output files.
+(They must have the necessary rights for being written in).
+
+- in both "run" scripts paste the absolute path to your work directory in the setwd() command.
+
+- run the scripts with R software.
